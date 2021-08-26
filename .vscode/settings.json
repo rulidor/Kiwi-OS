@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "kernel.h": "c",
+        "idt.h": "c"
+    },
+    "githubPullRequests.remotes": [
+        "upstream"
+    ]
+}
